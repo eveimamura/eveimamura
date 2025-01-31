@@ -32,7 +32,7 @@
 <p align="center">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveimamura&theme=dark&show_icons=true)
-  <img align="right" float="flex" display="inline-block"  width="50%" src="https://github.com/user-attachments/assets/88b05a53-83d9-4681-b1c5-5ca304ec52a2" alt="Imagem">
+  <img align="right" float="flex" display="inline-block"  width="40%" src="https://github.com/user-attachments/assets/88b05a53-83d9-4681-b1c5-5ca304ec52a2" alt="Imagem">
 </p>
 
 <!-- Portfolio -->
