@@ -2,27 +2,31 @@
 <div id="user-content-toc">
   <ul align="center">
  <img alight="left" display="inline-block" width="70px"src="https://github.com/user-attachments/assets/a24b196e-eca0-411c-8105-f9732f39c1a0" alt="token">
-   <h1> Olá, prazer sou Evelyn!</h1>
+   <h1> Hello, I'm Evelyn</h1>
 
 </div>
 
 <!-- Presentation -->
-<h2>Sobre Mim</h2>
+<h2>About me</h2>
 <p>
-  Sou estudante de ADS e no momento estou em transição de carreira de design de interiores para área da técnologia. 
+  - 🎒 I'm a student of Software Development and currently transitioning my career from Interior Design to the Tech industry.
  
-  - Atualmente focada em Front-End (HTML, CSS, JavaScript) e Back-End (Python), com o objetivo de me tornar Full-Stack.
+  - 💻 Currently focused on Front-End (HTML, CSS, JavaScript) and Back-End (Python), aiming to become a Full-Stack Developer.
 
-  - Procurando por uma oportunidade de estágio 👨‍💻
+  - 👨‍💻 Looking for an internship opportunity. 
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary> Mais detalhes </summary>
+  <summary> 🔻 More about me </summary>
 
-  - Sou designer de interiores experiente com mais de 12 anos de carreira. Depois de adquirir expêriencia profissional e abrir meu próprio escritório de design de interiores, trabalhei com e geri equipes, participei diretamente da criação e execução de projetos comerciais e residências, além de estar em contato constante com cliente e fornecedores. Acredito que minha experiencia anterior tenha construído meu caráter e pretendo carregar os bons resultados para minha nova trajetória.
+  - I'm 29 years old Brazilian.
+
+  - I am an experienced Interior Designer with over 12 years of career. After gaining professional experience and opening my own interior design business, I worked with and managed teams, was directly involved in the creation and execution of commercial and residential projects, and maintained constant communication with clients and suppliers.
+
+  - I believe my previous experience has shaped my character, and I intend to carry the successful results into my new journey.
     
-  - Nas minhas horas livres gosto de pintar, desenhar, ler mangás, HQ, assistir filmes e séries de fantasia e jogar videogames. </details>
+  - In my free time, I enjoy painting, drawing, reading manga and comics, watching fantasy movies and series, and playing video games. </details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eveimamura/)
