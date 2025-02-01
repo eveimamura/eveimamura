@@ -9,7 +9,7 @@
 <!-- Presentation -->
 <h2>Sobre Mim</h2>
 <p>
-  Sou estudante de ADS e no momento estou em transição de carreira de design de interiores para área da técnologia. Unindo a minha experiência técnica e detalhista ao desenvolvimento de sistemas. Sempre fui movida por soluções práticas e funcionais, e agora aplico essa visão no digital.
+  Sou estudante de ADS e no momento estou em transição de carreira de design de interiores para área da técnologia. 
  
   - Atualmente focada em Front-End (HTML, CSS, JavaScript) e Back-End (Python), com o objetivo de me tornar Full-Stack.
 
