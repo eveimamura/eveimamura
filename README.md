@@ -10,7 +10,7 @@
 <h2>About me</h2>
 <p>
   
-  - 🎒 I'm a student of Software Development and currently transitioning my career from Interior Design to the Tech industry.
+  - 🎒 I'm a student of Software Development and currently transitioning my career from Interior Design.
   
   - 💻 Currently focused on Front-End (HTML, CSS, JavaScript) and Back-End (Python), aiming to become a Full-Stack Developer.
     
