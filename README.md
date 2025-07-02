@@ -7,30 +7,30 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre Mim
 
-- 🎒 I'm a Software Development student, transitioning my career from Interior Design.
-- 💻 Currently focused on Front-End (HTML, CSS, JavaScript) and Back-End (Python), aiming to become a Full-Stack Developer.
-- 👨‍💻 Actively seeking an internship opportunity.
+- 🎒 Estudante de Análise e desenvolvimento de sistema fazendo transição de carreira da área de design de interiores
+- 💻 Focando no aprendizado de Python, Power BI, SQL
+- 👨‍💻 Procurando por oportunidades de estágio na área de tecnologia. 
 
 ---
 
-## 🔍 More About Me
+## 🔍 Mais sobre mim
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Clique para expandir</summary>
 
-- 🇧🇷 I'm a 29-year-old Brazilian.
-- 🎨 I have over 12 years of experience as an Interior Designer.
-- 🏢 Ran my own interior design business, managed teams, executed commercial and residential projects, and maintained direct client and supplier communication.
-- 💡 My past experiences shaped my character, and I plan to carry these skills into tech.
-- 🎮 Hobbies: Painting, drawing, reading manga/comics, watching fantasy movies and series, and gaming.
+- 🇧🇷 Brasileira, 30 anos. 
+- 🎨 há 12 anos na área de design de interiores, decidi fazer esta transição de carreira por me identificar muito com á área de tecnologia.
+- 🏢 Administrei meu próprio escritório de design de interiores, gerenciei equipes, executei projetos comerciais e residenciais e mantive comunicação direta com clientes e fornecedores.
+- 💡 Minhas experiências passadas moldaram meu caráter, e eu pretendo levar essas habilidades para a área de tecnologia.
+- 🎮 Hobbies: Pintura, desenho, leitura de mangás/hqs, assistir a filmes e séries de fantasia, e jogar videogame.
 
 </details>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 MInhas redes sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eveimamura/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-imamura-232061191/)
@@ -41,10 +41,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eveimamura&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)
 
 ---
-## 🔥 Skills
+## 🔥 Habilidades 
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Learning</h3>
+    <h3>Atualmente aprendendo cada vez mais ... </h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
